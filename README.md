@@ -3,7 +3,7 @@
 ... Em construção ....
 
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-  <a href="https://www.linkedin.com/in/giancarlo-carraro-8306b486" target="_blank">
+  <a href="https://www.linkedin.com/in/giancarlocarraro" target="_blank">
   
 
 ## My Skills
