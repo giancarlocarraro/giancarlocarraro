@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**giancarlocarraro/giancarlocarraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Giancarlo Carraro
+... Em construção ....
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/giancarlo-carraro-8306b486" target="_blank">
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcargeral&theme=solarized-light&border_color=30A3DC&show_icons=true&icon_color=30A3DC&)
+
+
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gcargeral&theme=solarized-light&layout=compact&border_color=30A3DC)
